@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This project is about leraning how to set up linters and how to use gitflow.
+> This project is about learning how to set up linters and how to use gitflow.
 
 
 Additional description about the project and its features.
